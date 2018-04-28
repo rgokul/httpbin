@@ -11,6 +11,8 @@ Flask = "*"
 Flask-Common = "*"
 meinheld = "*"
 werkzeug = ">=0.14.1"
+Blinker = “*”
+Raven = “*”
 
 [packages.raven]
 extras = [ "flask",]
